@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey, I'm GeeDee!
+I'm a full stack developer currently working on Morse REMI, a new messaging platform.
 
 <!--
 **MrGeeDee/MrGeeDee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
